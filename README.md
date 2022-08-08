@@ -63,7 +63,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd BLOCKTALK
+  cd chatsnap
 ```
 
 Install dependencies
