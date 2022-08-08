@@ -9,7 +9,7 @@ Huge shoutout to the [Snap Engineering Academy 2022 Teaching Team](https://githu
 The base was built with knowledge and inspiration from this [React Native Activity](https://github.com/Snap-Engineering-Academy-2022/chapsnat_2022)
 
 ## Mobile Screenshots (Taken on iPhone 12 Pro)
-[Screenshots](https://github.com/asarelcastellanos/BLOCKTALK/blob/base/SCREENSHOTS.md)
+[Screenshots](https://github.com/asarelcastellanos/chatsnap/blob/main/SCREENSHOTS.md)
 
 ## Features
 - Camera Page (with ablity to take pictures)
@@ -55,7 +55,7 @@ export default db;
 Clone the project
 
 ```bash
-  ggit clone -b base https://github.com/asarelcastellanos/BLOCKTALK/
+  ggit clone https://github.com/asarelcastellanos/chatsnap/
 
 ```
 
