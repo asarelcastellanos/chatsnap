@@ -1,7 +1,7 @@
 ## ChatSnap
 A Snapchat base built on React Native & Expo.
 
-This was the base that was used to by all the teams during the Snap Academies 2022.
+This was the base that was used by all the teams during the Snap Academies 2022.
 
 ## Acknowledgements
 
