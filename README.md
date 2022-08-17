@@ -1,4 +1,7 @@
-## ChatSnap
+<div align="center">
+  <img src="./githubAssets/chatsnap.png" width="300" height="300"/>
+  <h1>chatsnap</h1>
+</div>
 A Snapchat base built on React Native & Expo.
 
 This was the base that was used by all the teams during the Snap Academies 2022.
